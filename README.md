@@ -1,4 +1,4 @@
-# Israel Weather
+# Weather app for Israeli localities — React, TypeScript, Vite
 
 A small web app that shows the current weather in any locality in Israel.
 
